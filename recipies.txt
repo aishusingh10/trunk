@@ -1,0 +1,2 @@
+welcome to first git tutorial
+here we are learning how to create files in trunk branch
