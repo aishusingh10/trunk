@@ -1,6 +1,7 @@
 welcome to first git tutorial
 here we are learning how to create files in trunk branch
 now we are learning to edit in the project and commiting the changes in the main branch
+added new features in the project
 
 thank you
 
